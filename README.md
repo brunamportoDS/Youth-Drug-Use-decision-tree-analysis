@@ -13,5 +13,4 @@ What youth experiences and demographic factors predict substance use among minor
 - Models: Decision Tree, Bagging, Random Forest, Gradient Boosting
 
 ## Data
-Data from the National Survey on Drug Use and Health (NSDUH 2023), 
-pre-processed subset available from the course repository.
+Data from the National Survey on Drug Use and Health (NSDUH 2023)
